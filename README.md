@@ -1,2 +1,2 @@
-Day 2\
-l\logo Creations
+Day 3
+Figma download
