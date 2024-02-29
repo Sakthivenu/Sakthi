@@ -1,2 +1,3 @@
-Day 3
-Figma download
+Day 4
+use figma to design a logo
+
