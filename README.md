@@ -1,3 +1,2 @@
-Day 4
-use figma to design a logo
-
+Day 5
+Using glassmorphism to edit blur the image
